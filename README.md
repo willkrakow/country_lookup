@@ -1,7 +1,7 @@
 # Finding registrar country from a URL
 
 ## Setup
-First, create an account at [IPInfo](https://ipinfo.io). Add you API access token to the `.env` file.
+First, create an account at [IPInfo](https://ipinfo.io). Add your API access token to the `.env` file.
 
 Paste your list of contacts into the `input.csv` file. The following columns are available (feel free to add or remove as you wish, but you may need to edit the `main.py` script).
 
